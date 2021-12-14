@@ -1,0 +1,18 @@
+# **extract patient data from DB to xml**
+
+
+this is a simple program for loading and extract a data from database to xml file
+
+### Running
+
+ 1. open NetbeansIDE
+ 2. open the file
+ 3. run 
+ 4. select a patient
+ 5. choose a name for radio and xml file
+ 6. click start
+![program main](main.jpg)
+
+### Output
+
+![xml output](xml.jpg)
