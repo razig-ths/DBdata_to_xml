@@ -10,9 +10,12 @@ this is a simple program for loading and extract a data from database to xml fil
  3. run 
  4. select a patient
  5. choose a name for radio and xml file
- 6. click start
-![program main](main.jpg)
+ 6. click extract
+ ![program main](main.jpg)
 
+or add new patient 
+ ![program main](main1.jpg)
+ 
 ### Output
 
-![xml output](xml.jpg)
+ ![xml output](xml.jpg)
